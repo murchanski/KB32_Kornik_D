@@ -1,0 +1,3 @@
+C:/Users/dotse/CLionProjects/KornikTask1/cmake-build-debug/CMakeFiles/KornikTask1.dir
+C:/Users/dotse/CLionProjects/KornikTask1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dotse/CLionProjects/KornikTask1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
